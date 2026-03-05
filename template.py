@@ -9,6 +9,7 @@ project_name = "Holiday Management"
 list_of_files = [
     
     # Config
+    f"{project_name}/agents/__init__.py",
     f"{project_name}/config/settings.py",
 
     #Agents
