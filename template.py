@@ -3,7 +3,7 @@ from pathlib import Path
 import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s')
-project_name = "Holiday Management"
+project_name = "Holiday_Management"
 
 
 list_of_files = [
